@@ -1,4 +1,4 @@
-name: Build Go REST API
+name: Build Go Pharmacy Backend
 
 on:
   push:
