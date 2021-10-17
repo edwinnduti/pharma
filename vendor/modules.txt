@@ -1,0 +1,28 @@
+# github.com/edwinnduti/go-postgres v0.0.0-20211014225547-0adbaf05e90c
+## explicit
+github.com/edwinnduti/go-postgres/model
+# github.com/felixge/httpsnoop v1.0.1
+github.com/felixge/httpsnoop
+# github.com/gorilla/handlers v1.5.1
+## explicit
+github.com/gorilla/handlers
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/jinzhu/gorm v1.9.16
+## explicit
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/postgres
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
+# github.com/lib/pq v1.9.0
+github.com/lib/pq
+github.com/lib/pq/hstore
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/urfave/negroni v1.0.0
+## explicit
+github.com/urfave/negroni
